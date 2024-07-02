@@ -1,0 +1,19 @@
+INFO [2024-06-24 23:59:50,938] [django.utils.autoreload:668] Watching for file changes with StatReloader
+WARNING [2024-06-24 23:59:53,357] [django.request:241] Not Found: /
+WARNING [2024-06-25 00:09:14,959] [django.request:241] Not Found: /
+INFO [2024-06-25 00:10:11,416] [django.utils.autoreload:266] D:\BSS\bss_pro\bss_app\views.py changed, reloading.
+INFO [2024-06-25 00:10:13,438] [django.utils.autoreload:668] Watching for file changes with StatReloader
+INFO [2024-06-25 00:12:05,089] [django.utils.autoreload:266] D:\BSS\bss_pro\bss_app\views.py changed, reloading.
+INFO [2024-06-25 00:12:06,394] [django.utils.autoreload:668] Watching for file changes with StatReloader
+INFO [2024-06-25 00:29:59,938] [django.utils.autoreload:668] Watching for file changes with StatReloader
+WARNING [2024-06-25 00:30:02,056] [django.request:241] Not Found: /
+INFO [2024-06-25 00:30:42,736] [django.utils.autoreload:266] D:\BSS\bss_pro\bss_app\views.py changed, reloading.
+INFO [2024-06-25 00:30:44,004] [django.utils.autoreload:668] Watching for file changes with StatReloader
+INFO [2024-06-25 00:45:16,003] [django.utils.autoreload:668] Watching for file changes with StatReloader
+WARNING [2024-06-25 00:45:18,726] [django.request:241] Not Found: /
+INFO [2024-06-25 00:50:00,962] [django.utils.autoreload:668] Watching for file changes with StatReloader
+WARNING [2024-06-25 00:50:04,880] [django.request:241] Not Found: /
+INFO [2024-06-25 00:56:59,685] [django.utils.autoreload:668] Watching for file changes with StatReloader
+WARNING [2024-06-25 00:57:02,217] [django.request:241] Not Found: /
+INFO [2024-06-25 01:05:43,773] [django.utils.autoreload:668] Watching for file changes with StatReloader
+WARNING [2024-06-25 01:05:45,972] [django.request:241] Not Found: /
